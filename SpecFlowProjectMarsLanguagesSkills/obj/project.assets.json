@@ -5924,11 +5924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohan\\OneDrive\\Desktop\\Smitha\\Internship\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
+      "projectUniqueName": "C:\\Users\\mohan\\Source\\Repos\\MarsProjectVer1\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
       "projectName": "SpecFlowProjectMarsLanguagesSkills",
-      "projectPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Smitha\\Internship\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
+      "projectPath": "C:\\Users\\mohan\\Source\\Repos\\MarsProjectVer1\\SpecFlowProjectMarsLanguagesSkills\\SpecFlowProjectMarsLanguagesSkills.csproj",
       "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Smitha\\Internship\\SpecFlowProjectMarsLanguagesSkills\\obj\\",
+      "outputPath": "C:\\Users\\mohan\\Source\\Repos\\MarsProjectVer1\\SpecFlowProjectMarsLanguagesSkills\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
